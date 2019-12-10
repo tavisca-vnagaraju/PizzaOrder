@@ -3,6 +3,9 @@ Pizza is among the most customizable food items. It caters to both vegans and no
 
 Write a program that allows following -
 
-1)Adding at least two pizzas to a shopping cart
-2)List down the contents of a shopping cart
-3)Place an order for this shopping cart through a booking engine
+1)Adding at least two pizzas to a shopping cart.
+
+2)List down the contents of a shopping cart.
+
+3)Place an order for this shopping cart through a booking engine.
+
