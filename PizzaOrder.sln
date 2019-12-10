@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzaOrder", "PizzaOrder\Pi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaOrderFixature", "PizzaOrderFixature\PizzaOrderFixature.csproj", "{36C8A6B4-ED2B-47BC-A8BE-6EA9E1CB91ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaConsole", "PizzaConsole\PizzaConsole.csproj", "{B7D3C82B-3639-4440-9AB0-796B0410A3EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{36C8A6B4-ED2B-47BC-A8BE-6EA9E1CB91ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36C8A6B4-ED2B-47BC-A8BE-6EA9E1CB91ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36C8A6B4-ED2B-47BC-A8BE-6EA9E1CB91ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D3C82B-3639-4440-9AB0-796B0410A3EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D3C82B-3639-4440-9AB0-796B0410A3EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D3C82B-3639-4440-9AB0-796B0410A3EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D3C82B-3639-4440-9AB0-796B0410A3EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
